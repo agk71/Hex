@@ -7,7 +7,7 @@ End of year university project based on the strategy board game Hex invented by 
 
 ## Installation
 
-Run
+Execute from the command line with the following command
 ```
-// java -jar Hex.jar
+java -jar Hex.jar
 ```
