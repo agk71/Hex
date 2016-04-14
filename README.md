@@ -1,6 +1,6 @@
 # Hex Game
 
-End of year university project based board game Hex - Work in progress
+Java implimentation of the board game Hex written as an end of year university project - Work in progress
 
 ## What is Hex?
 
@@ -21,6 +21,13 @@ The following assessment areas were outlined:
 * The human player
 * Testing if a player has won
 * Building a Computer Player
+
+## To Do
+
+* "Game-won" test
+* Refinement of AI player
+* UI to define human and computer players
+
 
 ### How to run
 
