@@ -5,7 +5,7 @@ End of year university project based on the strategy board game Hex invented by 
 ## Screenshot
 ![alt text](screenshot.jpg "Screenshot of game in play")
 
-## Installation
+## How to run
 
 Execute from the command line with the following command
 ```
