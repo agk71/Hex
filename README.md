@@ -1,4 +1,4 @@
-# Hex Game
+# Hex Game in Java
 
 Java implimentation of the board game Hex written as an end of year university project - Work in progress
 
