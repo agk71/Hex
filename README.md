@@ -1,6 +1,6 @@
 # Hex Game in Java
 
-Java implimentation of the board game Hex written as an end of year university project - Work in progress
+Java implimentation of the board game Hex written as an end of year university project.
 
 ## What is Hex?
 
@@ -13,7 +13,7 @@ Players are assigned a colour and take turns to place one of their pieces on a c
 
 ## The Aim
 
-The aim of the assignment was to write a Java implimentation of the game allowing humans to play against humans, humans to play against a computer and computers to play against computers (though only human vs. human works currently). A set of interfaces was provided to develop code against.
+The aim of the assignment was to write a Java implimentation of the game allowing humans to play against humans, humans to play against a computer and computers to play against computers. A set of interfaces was provided to develop code against.
 
 The following assessment areas were outlined:
 * The board
@@ -21,13 +21,6 @@ The following assessment areas were outlined:
 * The human player
 * Testing if a player has won
 * Building a Computer Player
-
-## To Do
-
-* "Game-won" test
-* Refinement of AI player
-* UI to define human and computer players
-
 
 ### How to run
 
